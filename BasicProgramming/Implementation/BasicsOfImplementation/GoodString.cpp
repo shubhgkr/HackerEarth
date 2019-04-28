@@ -1,0 +1,17 @@
+//https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/good-string-3/
+#include<iostream>
+#include<string>
+int main(){
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+    int arr[26]={0};
+    int cnt=0;
+    std::string n;
+    std::cin>>n;
+    for(char ch:n){
+        cnt+=(!arr[ch-'a']);
+        arr[ch-'a']=1;
+    }
+    std::cout<<n.length()-cnt;
+    return 0;
+}
