@@ -1,3 +1,4 @@
+//https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/cricket-rating-30/
 #include<iostream>
 #include<algorithm>
 int main(){

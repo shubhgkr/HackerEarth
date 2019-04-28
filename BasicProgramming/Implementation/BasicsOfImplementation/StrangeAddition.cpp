@@ -1,3 +1,4 @@
+//https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-reversed-numbers/description/
 #include<iostream>
 #include<string>
 int main(){

@@ -1,3 +1,4 @@
+//https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/monk-and-conversion-game-code-monk/
 #include<iostream>
 int main(){
 	std::ios_base::sync_with_stdio(false);
