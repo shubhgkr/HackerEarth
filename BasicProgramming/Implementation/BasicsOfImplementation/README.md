@@ -67,3 +67,4 @@
 -   [GoodString.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/good-string-3/)
 -   [CarNames.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/car-names-4/)
 -   [SahilsComputerAddress.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/sahils-computer-address-20/)
+-   [GameOfCoins.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/game-of-coins/description/)
