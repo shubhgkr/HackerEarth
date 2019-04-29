@@ -65,3 +65,4 @@
 -   [PrateekAndHisFriends.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/prateek-and-his-friends/)
 -   [RiyaInTheAngelHack.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/dummy1-1/description/)
 -   [GoodString.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/good-string-3/)
+-   [CarNames.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/car-names-4/)
