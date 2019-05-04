@@ -11,3 +11,8 @@
         -   [Basics Of Operators](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Operators/BasicsOfOperators)
     -   Bit Manipulation
         -   [Basics Of Bit Manipulation](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/BitManipulation/BasicsOfBitManipulation)
+-   [Algorithms](https://github.com/shubhgkr/HackerEarth/tree/master/Algorithms)
+    -   Searching
+        -   [Linear Search](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Searching/LinearSearch)
+        -   [Binary Search](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Searching/BinarySearch)
+        -   [Ternary Search](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Searching/TernarySearch)
