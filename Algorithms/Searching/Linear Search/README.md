@@ -8,3 +8,4 @@
     -   [RepeatedKTimes.cpp](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/)
     -   [SpecialShop.cpp](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/special-shop-69904c91/)
     -   [GoldenRectangles.cpp](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/almost-golden-rectangular-1c9d72c0/)
+    -   [MannasFirstName.cpp](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/mannas-first-name-4/)
