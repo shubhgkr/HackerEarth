@@ -16,3 +16,5 @@
         -   [Linear Search](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Searching/LinearSearch)
         -   [Binary Search](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Searching/BinarySearch)
         -   [Ternary Search](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Searching/TernarySearch)
+    -   Greedy Algorithms
+        -   [Basics Of Greedy Algorithms](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/GreedyAlgorithms/BasicsOfGreedyAlgorithms)
