@@ -8,3 +8,4 @@
     - [Dorsplen.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/dorsplen/)
     - [HungerGames.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/hunger-games/)
     - [Subxor.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/subxor-e114a622/)
+    - [BinaryMatrix.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/binary-matrix-1-d77d7d00/)
