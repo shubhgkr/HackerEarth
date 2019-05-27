@@ -15,3 +15,4 @@
     - [OperationsOnAnArray.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/operations-on-an-array-2187f48a/)
     - [KFriends.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/k-friends-89908017/)
     - [LittleMonkAndLibrary.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/little-monk-and-library)
+    - [FastSort.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/fast-sort-1/)
