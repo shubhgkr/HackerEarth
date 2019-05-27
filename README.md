@@ -13,8 +13,9 @@
         -   [Basics Of Bit Manipulation](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/BitManipulation/BasicsOfBitManipulation)
 -   [Algorithms](https://github.com/shubhgkr/HackerEarth/tree/master/Algorithms)
     -   Searching
-        -   [Linear Search](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Searching/LinearSearch)
-        -   [Binary Search](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Searching/BinarySearch)
-        -   [Ternary Search](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Searching/TernarySearch)
+        -   [Linear Search](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Searching/Linear%20Search)
     -   Greedy Algorithms
-        -   [Basics Of Greedy Algorithms](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/GreedyAlgorithms/BasicsOfGreedyAlgorithms)
+        -   [Basics Of Greedy Algorithms](https://github.com/shubhgkr/HackerEarth/tree/master/BasicProgramming/Greedy%20Algorithms/Basics%20Of%20Greedy%20Algorithms)
+-   [Data Structures](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures)
+    -   Arrays
+        -   [1D](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Arrays/1D)
