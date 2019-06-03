@@ -20,3 +20,4 @@
 - [MyGirlfriendAndHerLoveForCats.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/my-girlfriend-and-her-love-for-cats-1/)
 - [SwapIt.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/swap-it-2/)
 - [MathisonAndTheFunnySubarray.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/mathison-and-the-funny-substring-b3f58587/)
+- [AryanHatesShopping.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/ankur-2/)
