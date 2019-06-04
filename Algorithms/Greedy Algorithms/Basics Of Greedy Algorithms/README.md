@@ -25,3 +25,4 @@
 - [MosaicsAndHoles.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/filip-kotinioo-39795217/)
 - [TheLoneWolfDiesButThePackSurvives.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/c-32/)
 - [FlipTheWorld.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/flip-the-world/description/)
+- [ProtectTheCities.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/protect-the-cities-1)
