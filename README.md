@@ -16,6 +16,8 @@
         -   [Linear Search](https://github.com/shubhgkr/HackerEarth/tree/master/Algorithms/Searching/Linear%20Search)
     -   Greedy Algorithms
         -   [Basics Of Greedy Algorithms](https://github.com/shubhgkr/HackerEarth/tree/master/Algorithms/Greedy%20Algorithms/Basics%20Of%20Greedy%20Algorithms)
+     -  String Algorithms
+        -   [Basics of String Manipulation](https://github.com/shubhgkr/HackerEarth/tree/master/Algorithms/String%20Algorithms/Basics%20Of%20String%20Manipulation)
 -   [Data Structures](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures)
     -   Arrays
         -   [1D](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Arrays/1D)
