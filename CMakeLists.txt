@@ -3,4 +3,4 @@ project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HackerEarth "Algorithms/String Algorithms/Basics of String Manipulation/MonkTeachesPalindrome.cpp")
+add_executable(HackerEarth "Algorithms/String Algorithms/Basics of String Manipulation/PrintFirstOccurence.cpp")
