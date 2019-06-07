@@ -1,7 +1,6 @@
 //
 // Created by shubhgkr on 8/6/19.
-//https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/monk-teaches-palindrome/
-
+//https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/palindrome-124/
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -17,7 +16,7 @@ int main() {
 		s2 = s1;
 		std::reverse(s1.begin(), s1.end());
 		if (s1 == s2)
-			std::cout << (s1.length() & 1u ? "YES ODD\n" : "YES EVEN\n");
+			std::cout << "YES\n";
 		else
 			std::cout << "NO\n";
 	}
