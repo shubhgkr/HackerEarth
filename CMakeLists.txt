@@ -3,4 +3,4 @@ project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HackerEarth "Algorithms/String Algorithms/Basics of String Manipulation/Permutation.cpp")
+add_executable(HackerEarth "Algorithms/String Algorithms/Basics of String Manipulation/VowelPhobia.cpp")
