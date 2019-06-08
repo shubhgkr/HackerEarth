@@ -11,3 +11,4 @@
   - [Permutation.cpp](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/permutation-4/description/)
   - [VowelPhobia.cpp](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/vowels/)
   - [RemoveDuplicates.cpp](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/remove-duplicates-3/)
+  - [InvertCaseOfCharacter.cpp](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/invert-case-of-character/)
