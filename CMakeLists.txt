@@ -3,4 +3,4 @@ project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HackerEarth "Data Structures/Arrays/1D/MonkAndRotation.cpp")
+add_executable(HackerEarth "Data Structures/Arrays/1D/RRRiddikulusOnceAgain.cpp")

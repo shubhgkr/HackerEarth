@@ -10,3 +10,4 @@
   - [BiasedChandan.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/biased-chandan/)
   - [MaximizeTheEarning.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximize-the-earning-137963bc-323025a6/)
   - [MonkAndRotation.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-rotation-3/)
+  - [RRRiddikulusOnceAgain.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/k-rotation-is-what-you-can-855157f8/)
