@@ -3,4 +3,4 @@ project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HackerEarth "Algorithms/Greedy Algorithms/Basics Of Greedy Algorithms/SharpenThePencils.cpp")
+add_executable(HackerEarth "Algorithms/Greedy Algorithms/Basics Of Greedy Algorithms/EasyStrongPermutation.cpp")
