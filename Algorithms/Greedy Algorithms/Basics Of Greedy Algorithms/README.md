@@ -35,3 +35,4 @@
 - [JumpingChampa.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/jumping-champa-icpc-1/)
 - [SharpenThePencils.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/sharpen-the-pencils-2/)
 - [EasyStrongPermutation.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/easy-strong-permutation/)
+- [BMonsterGouketsu.cpp](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/monster-gouketsu/)
