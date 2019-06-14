@@ -34,3 +34,4 @@
 -   [SpecialBitNumbers.cpp](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/chakra-numbers-9c9e0faf/)
 -   [MonkAndTasks.cpp](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/monk-and-tasks/)
 -   [LazyPanda.cpp](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/lazy-panda-1/)
+-   [ViserionAndBran.cpp](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/viserion-6ef1b663/)
