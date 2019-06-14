@@ -70,3 +70,4 @@
 -   [GameOfCoins.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/game-of-coins/description/)
 -   [PrimeString.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/prime-string-598/)
 -   [ShreyaAndNonPalindrome.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shreya-and-non-palindrome/)
+-   [EvenLengthPalindromicNumber.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pepper-and-palindromic-love-76ae8763/)
