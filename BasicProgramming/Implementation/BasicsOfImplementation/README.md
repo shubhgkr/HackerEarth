@@ -72,3 +72,4 @@
 -   [ShreyaAndNonPalindrome.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/shreya-and-non-palindrome/)
 -   [EvenLengthPalindromicNumber.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/pepper-and-palindromic-love-76ae8763/)
 -   [TheDawn.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/title-abhi-socha-nahi/)
+-   [CountriesGrouping.cpp](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/countries-grouping-1-5b13620a/)
