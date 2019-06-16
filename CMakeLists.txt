@@ -3,4 +3,4 @@ project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HackerEarth "")
+add_executable(HackerEarth "Algorithms/Greedy Algorithms/Basics Of Greedy Algorithms/LittleJhoolAndHisAddiction2.cpp")
