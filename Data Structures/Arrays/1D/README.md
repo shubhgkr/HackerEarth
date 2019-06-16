@@ -13,3 +13,4 @@
   - [RRRiddikulusOnceAgain.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/k-rotation-is-what-you-can-855157f8/)
   - [DedicationLevelInfinity.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/baaki-che/)
   - [PepperAndContiguousEvenSubarrayDebugging.java](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/pepper-and-contiguous-even-subarray-9f3adf65/)
+  - [ArraySequence.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/modify-sequence/)
