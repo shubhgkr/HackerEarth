@@ -17,3 +17,4 @@
   - [MaximumOfKsizeSubarraysDeque.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/maximum-of-k-size-subarrays-deque/)
   - [HamiltonianAndLagrangian.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/hamiltonian-and-lagrangian/description/)
   - [LongATMQueue.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/long-atm-queue-3/)
+  - [HelpJarvis.cpp](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/help-jarvis-8a39566e/)
