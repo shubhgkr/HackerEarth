@@ -3,4 +3,4 @@ project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HackerEarth "BasicProgramming/InputOutput/BasicsOfInputOutput/CostOfBalloons.cpp")
+add_executable(HackerEarth "BasicProgramming/Implementation/BasicsOfImplementation/RoyAndTextingRobot.cpp")
