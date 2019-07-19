@@ -3,4 +3,4 @@ project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HackerEarth "BasicProgramming/Implementation/BasicsOfImplementation/FurnitureTransportation.cpp")
+add_executable(HackerEarth "Algorithms/Dynamic Programming/Introduction to Dynamic Programming 1/IntelligentGirl.cpp")
