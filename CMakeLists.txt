@@ -3,4 +3,4 @@ project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
 # "Algorithms/Searching/Linear Search/BreakupApp.cpp"
-add_executable(HackerEarth "Algorithms/Searching/Linear Search/nqueen.cpp")
+add_executable(HackerEarth "BasicProgramming/Recursion/RecursionAndBacktracking/nqueen.cpp")
