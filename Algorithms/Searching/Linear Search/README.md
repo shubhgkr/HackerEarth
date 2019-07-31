@@ -10,3 +10,4 @@
     -   [GoldenRectangles.cpp](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/almost-golden-rectangular-1c9d72c0/)
     -   [MannasFirstName.cpp](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/mannas-first-name-4/)
     -   [SquareTransaction.cpp](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/square-transaction-20/?utm_source=header&utm_medium=search&utm_campaign=he-search)
+    -   [BreakupApp.cpp](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/breakup-app/)
