@@ -3,4 +3,4 @@ project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
 # "Algorithms/Searching/Linear Search/BreakupApp.cpp"
-add_executable(HackerEarth BasicProgramming/BitManipulation/BasicsOfBitManipulation/SubsetAND.cpp)
+add_executable(HackerEarth "Data Structures/Stacks/BasicsOfStacks/SuperReducedStrings.cpp")
