@@ -7,3 +7,4 @@
   - [FrustratedCoders.cpp](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/sniper-shooting/)
   - [MinimumAddToMakeParenthesesValid.cpp](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/minimum-add-to-make-parentheses-valid-9cba6259/)
   - [LittleMonkAndBalancedParentheses.cpp](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/little-monk-and-balanced-parentheses/)
+  - [StackAndQueueNissan.cpp](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/staque-1-e790a29f/)
