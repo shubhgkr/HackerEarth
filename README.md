@@ -25,5 +25,6 @@
 -   [Data Structures](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures)
     -   Arrays
         -   [1D](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Arrays/1D)
+        -   [Multi-Dimensional](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Arrays/Multi%20Dimensional)
     -   Stacks
         -   [Basics Of Stacks](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Stacks/BasicsOfStacks)
