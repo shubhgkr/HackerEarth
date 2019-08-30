@@ -3,4 +3,4 @@ project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
 # "Algorithms/Searching/Linear Search/BreakupApp.cpp"
-add_executable(HackerEarth "Data Structures/Arrays/1D/NeutralisationOfCharges.cpp")
+add_executable(HackerEarth "Algorithms/Greedy Algorithms/Basics Of Greedy Algorithms/EatOrNot.cpp")
