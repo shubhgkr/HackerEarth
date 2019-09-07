@@ -28,3 +28,5 @@
         -   [Multi-Dimensional](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Arrays/Multi%20Dimensional)
     -   Stacks
         -   [Basics Of Stacks](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Stacks/BasicsOfStacks)
+    -   Graphs
+        -   [Graph Representation](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Graphs/Graph%20Representation)
