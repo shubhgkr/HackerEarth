@@ -18,6 +18,8 @@
         -   [Linear Search](https://github.com/shubhgkr/HackerEarth/tree/master/Algorithms/Searching/Linear%20Search)
     -   Greedy Algorithms
         -   [Basics Of Greedy Algorithms](https://github.com/shubhgkr/HackerEarth/tree/master/Algorithms/Greedy%20Algorithms/Basics%20Of%20Greedy%20Algorithms)
+    -   Graphs
+        -   [Graph Representation](https://github.com/shubhgkr/HackerEarth/tree/master/Algorithms/Graphs/Graph%20Representation)
      -  String Algorithms
         -   [Basics of String Manipulation](https://github.com/shubhgkr/HackerEarth/tree/master/Algorithms/String%20Algorithms/Basics%20of%20String%20Manipulation)
      -  Dynamic Programming
@@ -28,5 +30,3 @@
         -   [Multi-Dimensional](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Arrays/Multi%20Dimensional)
     -   Stacks
         -   [Basics Of Stacks](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Stacks/BasicsOfStacks)
-    -   Graphs
-        -   [Graph Representation](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Graphs/Graph%20Representation)
