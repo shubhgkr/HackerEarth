@@ -30,3 +30,5 @@
         -   [Multi-Dimensional](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Arrays/Multi%20Dimensional)
     -   Stacks
         -   [Basics Of Stacks](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Stacks/BasicsOfStacks)
+    -   Trees
+        -   [Binary/N-ary Trees](https://github.com/shubhgkr/HackerEarth/tree/master/Data%20Structures/Trees/Binary%20Nary%20Trees)
