@@ -1,3 +1,3 @@
-# 1D
+# [Multi-dimensional](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
 
-  - [AddAlternateElementsOf2DimensionalArray.cpp](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/add-alternate-elements-of-2-dimensional-array/)
+  1. [AddAlternateElementsOf2DimensionalArray](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/add-alternate-elements-of-2-dimensional-array/)
