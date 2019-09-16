@@ -2,5 +2,4 @@ cmake_minimum_required(VERSION 3.14)
 project(HackerEarth)
 
 set(CMAKE_CXX_STANDARD 14)
-# "Algorithms/Searching/Linear Search/BreakupApp.cpp"
-add_executable(HackerEarth BasicProgramming/InputOutput/BasicsOfInputOutput/Divisibility.cpp)
+add_executable(HackerEarth BasicProgramming/Implementation/BasicsOfImplementation/StrangeAddition.cpp)
